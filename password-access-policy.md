@@ -22,3 +22,6 @@ This policy sets basic rules for passwords and system access at AutoFix Workshop
 ## Customer Keys and Physical Access
 - Customer vehicle keys should be kept in the locked key cabinet at the front desk, not left on desks or in the service bay.
 - Only staff on shift should have access to the key cabinet.
+
+## Policy Review
+All staff should read this policy when they start at AutoFix Workshop, and review it again once a year or whenever it's updated.
