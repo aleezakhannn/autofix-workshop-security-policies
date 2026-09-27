@@ -18,3 +18,7 @@ This policy explains how AutoFix Workshop staff should use company computers, th
 
 ## Reporting Issues
 - If a computer is acting strangely (pop-ups, slow, unfamiliar programs), tell the owner/manager right away rather than trying to fix it yourself.
+- Report lost or stolen devices (laptops, phones with shop access) to the owner/manager immediately.
+
+## Policy Review
+All staff should read this policy when they start at AutoFix Workshop, and review it again once a year or whenever it's updated.
